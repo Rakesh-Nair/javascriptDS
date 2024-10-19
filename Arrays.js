@@ -19,3 +19,6 @@ console.log(strings);
 
 //access O(1)
 console.log(strings[0]);
+
+
+//Two Types - Static and Dynamic Arrays
